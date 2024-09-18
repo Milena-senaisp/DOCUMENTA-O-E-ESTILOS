@@ -1,0 +1,10 @@
+/*fonte css*/
+
+    @font-face {
+        font-family: "monst";
+        src: url(Montserrat-VariableFont_wght.ttf);
+    }
+     .texto{
+font-family: "monst";
+     }
+
